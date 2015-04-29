@@ -36,7 +36,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
     
-    
+    //第二次提交 测试github
     //延迟启动图片
     [NSThread sleepForTimeInterval:3.0];
     self.navigationItem.title = @"First";
